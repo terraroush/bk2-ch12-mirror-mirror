@@ -1,0 +1,22 @@
+.containerTwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.containerOne {
+    padding: 15px;
+}
+
+#first {
+    border: 1px maroon solid;
+}
+
+#second {
+    border: 1px solid salmon;
+}
+
+#first, #second {
+    width: 45%;
+    height: 30px;
+}
